@@ -1,0 +1,8 @@
+1. la slideshow nu am putut sa fac Rectangle glasmo - slide 
+2. in mapa css am impartit in mai multe fisiere stilurile stilurile sa nu fie un volum mare de cod 
+   style.css este aplicat pentru partea de navigare a sitului, si putin pentru footer
+   style1.css este aplicat pentru al 2 bloc al sitului, este scris stilurile pentru О НАС, 
+   ТОВАРЫ И УСЛУГИ, si stilurile pentru fiecare text din grid 
+   style2.css este a 3 parte a sitului unde este scris stilurile pentru fixare a 3 carduri cu text 
+   stylegalary.css este folosit pentru parte a 4 a sitului unde este facuta o galerie de poze din 
+   4 coloare si 2 rinduri

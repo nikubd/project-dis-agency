@@ -1,0 +1,55 @@
+.containerflex {
+    margin-top: -90px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  
+  .column {
+    flex: 0 1 32%;
+  }
+  
+  .cardflex {
+    
+    display: flex!important;
+    flex-direction: column!important;
+    min-height: 100%;
+    
+    position: relative;
+  }
+  
+  .card .image img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .card article {
+    padding: 20px;
+    flex:  1;
+     
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+  }
+  
+  .card article p {
+    flex: 1
+  }
+  
+  .card article .bottom {
+    flex: 0;
+  }
+
+  .textflex{
+    font-size: 20px;
+    color: white;
+    width: 299px;
+    height: 107px;
+    left: 200px;
+    top: 1972px;
+    margin-inline: 10px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    text-transform: capitalize;
+  }
